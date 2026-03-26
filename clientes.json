@@ -4,8 +4,19 @@
         "nome": "tihago",
         "idade": 31,
         "renda": 7000.0,
-        "saldo": 0,
-        "historico": []
+        "saldo": 1605.0,
+        "historico": [
+            {
+                "tipo": "Pix recebido",
+                "valor": 20.0,
+                "data": "25/03/2026 21:57"
+            },
+            {
+                "tipo": "Pix recebido",
+                "valor": 10.0,
+                "data": "25/03/2026 21:57"
+            }
+        ]
     },
     {
         "id": 3,
@@ -156,6 +167,65 @@
         "nome": "renan",
         "idade": 4,
         "renda": 20.0,
+        "saldo": 390.0,
+        "historico": [
+            {
+                "tipo": "Depósito",
+                "valor": 400.0,
+                "data": "25/03/2026 21:48"
+            },
+            {
+                "tipo": "Saque",
+                "valor": 150.0,
+                "data": "25/03/2026 21:48"
+            },
+            {
+                "tipo": "Pix enviado",
+                "valor": 130.0,
+                "data": "25/03/2026 21:49"
+            },
+            {
+                "tipo": "Pix recebido",
+                "valor": 130.0,
+                "data": "25/03/2026 21:49"
+            },
+            {
+                "tipo": "Depósito",
+                "valor": 260.0,
+                "data": "25/03/2026 21:50"
+            },
+            {
+                "tipo": "Saque",
+                "valor": 210.0,
+                "data": "25/03/2026 21:50"
+            },
+            {
+                "tipo": "Pix enviado",
+                "valor": 800.0,
+                "data": "25/03/2026 21:52"
+            },
+            {
+                "tipo": "Pix recebido",
+                "valor": 800.0,
+                "data": "25/03/2026 21:53"
+            },
+            {
+                "tipo": "Pix enviado",
+                "valor": 20.0,
+                "data": "25/03/2026 21:57"
+            },
+            {
+                "tipo": "Pix enviado",
+                "valor": 10.0,
+                "data": "25/03/2026 21:57"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "nome": "ewr",
+        "idade": 2,
+        "renda": 1.0,
         "saldo": 0,
         "historico": []
     }
